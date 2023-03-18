@@ -1,0 +1,26 @@
+npm install --save express(1,2)
+npm install --save-dev nodemon(1,2)
+npm install --save morgan()
+npm install --save body-parser()
+npm install --save mongoose()
+npm install --save multer()
+ npm install bcrypt --save()
+ npm install jsonwebtoken --save()
+
+promise run asynchronously
+
+///////////////////////////////////////
+coders Gyan 5 hr video
+/////////////////////////////////////////
+npm  i esm (for using module 6 ie use import instead of require)
+npm i dotenv(which we didnt use in video 1 so thats why getting errror while saving process env)
+npm i joi(a validation lib for email and etc)
+npm i bcrypt
+npm i jsonwebtoken
+npm install --save multer (for image processing)
+
+
+
+
+
+
